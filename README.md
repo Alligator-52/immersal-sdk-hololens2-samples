@@ -1,2 +1,2 @@
-# immersal-sdk-hololens2-samples
+# Immersal SDK HoloLens 2 Samples
 HoloLens 2 samples
