@@ -145,6 +145,9 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 4064589403738746438, guid: d2bb15fa8c2bf4d90921035afa2666fa, type: 2}
+  - {fileID: 11400000, guid: fe6af8c7380598549953bdbd093bc9b5, type: 2}
+  - {fileID: 3736346124014628770, guid: 85d9307648ee345b290ecf0345d5fe3a, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -882,7 +885,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: Immersal Ltd.
   metroCertificateIssuer: Immersal Ltd.
-  metroCertificateNotAfter: 00c0829dd77ada01
+  metroCertificateNotAfter: 00ae3281b29adb01
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: Immersal SDK Samples
